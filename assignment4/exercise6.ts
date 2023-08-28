@@ -10,5 +10,5 @@ function largestNumber(arr:number[]):number{
 }
 return largeNumber;
 }
-let x = largestNumber([23 ,45 ,56 ,76 ,23 ,87 ,95 ,43,21]);
-console.log(`The largest number is ${x}`);
+let LargeNum = largestNumber([23 ,45 ,56 ,76 ,23 ,87 ,95 ,43,21]);
+console.log(`The largest number is ${LargeNum}`);
