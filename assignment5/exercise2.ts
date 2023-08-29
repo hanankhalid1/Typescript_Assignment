@@ -2,7 +2,7 @@
 const arr:number[] = [1, 2, 3, 4];
 console.log(`Orignal Array  : ${arr}`);
 
-let newArray = arr.map((x)=>{
+let newArr = arr.map((x)=>{
      return x*2});
 
-     console.log(`New Multiplied Array : ${newArray}`);
+     console.log(`New Multiplied Array : ${newArr}`);
